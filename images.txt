@@ -8,3 +8,4 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 registry
+zeek/zeek:lts
